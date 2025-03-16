@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! I'm Revathi Mahadevan
+Data Analyst | SQL | Power BI | Tableau | Python | IBM Cognos
 
-<!--
-**revmaha/revmaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Analyst with experience in analyzing, visualizing, and extracting insights from data. With strong experience in a range of tools and technologies, I strive to leverage data to solve complex problems and support decision-making.
 
-Here are some ideas to get you started:
+## Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **SQL** | **Python** | **Power BI** | **Tableau** | **IBM Cognos** | **ACL**
+- **Databases**: MySQL, PostgreSQL, SQL Server
+- **Libraries**: pandas, numpy, matplotlib
+  
+## Let's Connect
+
+- Email: revmahadevan@gmail.com  
+
+Cheers!
